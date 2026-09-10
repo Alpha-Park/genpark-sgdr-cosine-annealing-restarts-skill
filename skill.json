@@ -1,0 +1,14 @@
+{
+  "name": "genpark-sgdr-cosine-annealing-restarts-skill",
+  "version": "1.0.0",
+  "description": "SGDR: Stochastic Gradient Descent with Warm Restarts and Cosine Annealing learning rate schedule engine.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "sgdr",
+    "cosine-annealing",
+    "learning-rate-schedule",
+    "warm-restarts",
+    "deep-learning"
+  ]
+}
